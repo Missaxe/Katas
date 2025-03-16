@@ -1,0 +1,22 @@
+[
+	{
+		"EstimatedTime": 1,
+		"StepName": "Dans un terminal, exécuter npm i suivi de npm start"
+	},
+	{
+		"EstimatedTime": 5,
+		"StepName": "Nous souhaitons afficher les liens de réseaux sociaux en rouge sur fond bleu lors du survol de la souris."
+	},
+	{
+		"EstimatedTime": 10,
+		"StepName": "Nous souhaiterions valider l'email saisi dans le champs Yout email lorsque l'utilisateur sort du champs. Appliquer une bordure rouge sur le champs si l'email est invalide. Une variable contient une expression régulière (simpliste) pour valider l'email."
+	},
+	{
+		"EstimatedTime": 15,
+		"StepName": "Nous souhaitons pouvoir suspendre le décompte en cliquant sur Pause Countdown. Lorsque le décompte est arrêté, le bouton devient Resume Countdown et il apparaît en vert. Le click sur Resume Countdown relance le décompte, change le libelée à Pause Countdown et apparait en rouge"
+	},
+	{
+		"EstimatedTime": 15,
+		"StepName": "Nous souhaiterions faire fonctionner l'abonnement à la newsletter. Lorsque l'utilisateur entre un email valide et clique sur le bouton Subscribe, faire un POST sur l'api /newsletter/subscribe avec l'email dans le body et afficher un message avec le contenu de la réponse."
+	}
+]

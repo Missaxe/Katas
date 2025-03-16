@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Coded with Love",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+        "iconClass": "fa fa-heart"
+    },
+    {
+        "name": "Easy to use",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+        "iconClass": "fa fa-users"
+    },
+    {
+        "name": "Parallax Background",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+        "iconClass": "fa fa-fire"
+    },
+    {
+        "name": "Slider Background",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+        "iconClass": "fa fa-film"
+    },
+    {
+        "name": "Video Background",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+        "iconClass": "fa fa-cubes"
+    },
+    {
+        "name": "Newsletter",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+        "iconClass": "fa fa-envelope"
+    }
+]
